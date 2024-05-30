@@ -3,7 +3,7 @@ Codepath Course Assignments
 
 ## TIP102 Intermediate Technical Interview Prep (Summer 2024)
 
-  * **Week 1: UMPIRE, Hash Tables, Big-O, Stacks, Queues, and Heaps**
+  ### * **Week 1: UMPIRE, Hash Tables, Big-O, Stacks, Queues, and Heaps**
     * **Warmup 1:**
       * Review
         * [Big O Notation](https://guides.codepath.com/compsci/Big-O-Complexity-Analysis)
@@ -42,7 +42,7 @@ Codepath Course Assignments
         * Heaps:
           * [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 
-  * **Week 2: Linked Lists**
+  ### * **Week 2: Linked Lists**
     * **Warmup 2:**
       * Review
         * [Overview of Linked Lists](https://guides.codepath.org/compsci/Linked-Lists)
@@ -74,7 +74,7 @@ Codepath Course Assignments
         * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
         * [Challenge: Swap Node in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
-  * **Week 3: Strings and Arrays**
+  ### * **Week 3: Strings and Arrays**
     * **Warmup 3:**
       * Review
         * [Strings and Arrays](https://guides.codepath.com/compsci/Strings-and-Arrays)
@@ -102,7 +102,7 @@ Codepath Course Assignments
         * [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)
         * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
   
-  * **Week 4: Review**
+  ### * **Week 4: Review**
     * **Warmup 4:**
       * Review
         * [Heaps](https://guides.codepath.org/compsci/Heaps)
@@ -132,7 +132,7 @@ Codepath Course Assignments
             * [Python Solution](https://gist.github.com/calren/2b07f301b37430462161ef543472b3cb)
           * [Generate Binary Numbers Between 1 and N](https://www.techiedelight.com/generate-binary-numbers-1-n/)
   
-  * **Week 5: Strings/Arrays and Recursion**
+  ### * **Week 5: Strings/Arrays and Recursion**
     * **Warmup 5:**
       * Review
         * [Arrays and Strings](https://courses.codepath.org/course_videos/tip102/youtube/AefKSoNpZtQ?title=Arrays+and+Strings)
@@ -161,7 +161,7 @@ Codepath Course Assignments
         * [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
         * [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 
-  * **Week 6: Binary Trees**
+  ### * **Week 6: Binary Trees**
     * **Warmup 3:**
       * Review
         * [Binary Trees](https://guides.codepath.com/compsci/Binary-Trees)
@@ -188,7 +188,7 @@ Codepath Course Assignments
         * [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
         * [Unique Binary Search Tree](https://leetcode.com/problems/unique-binary-search-trees/)
 
-  * **Week 7: Binary Trees Continued**
+  ### * **Week 7: Binary Trees Continued**
     * **Warmup 3:**
       * Review
         * [Topological Sorting](https://guides.codepath.org/compsci/Topological-Sort)
@@ -213,7 +213,7 @@ Codepath Course Assignments
         * [Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
         * [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   
-  * **Week 8: 2D Arrays and Graphs**
+  ### * **Week 8: 2D Arrays and Graphs**
     * **Warmup 8:**
       * Review
         * [Code.org's 2D Arrays](https://courses.codepath.org/course_videos/tip102/youtube/QIPNA3p6FBo?title=Code.org%27s+2D+Arrays)
@@ -242,7 +242,7 @@ Codepath Course Assignments
         * [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
         * [Word Ladder II](https://leetcode.com/problems/word-ladder-ii)
 
-  * **Week 9: Dynamic Programming, Graphs, Review**
+  ### * **Week 9: Dynamic Programming, Graphs, Review**
     * **Warmup 9:**
       * Review
         * [All you need to know about 2D Arrays](https://www.simplilearn.com/tutorials/data-structure-tutorial/two-dimensional-arrays)
@@ -270,7 +270,7 @@ Codepath Course Assignments
         * [Smallest Range](https://leetcode.com/problems/smallest-range-i/)
         * [Smallest Range 2](https://leetcode.com/problems/smallest-range-ii/)
 
-  * **Week 10: Final Review**
+  ### * **Week 10: Final Review**
     * **Warmup 10:**
       * Warmup Problem
         * [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
@@ -293,38 +293,38 @@ Codepath Course Assignments
 
 ## WEB102 Intermediate Web Development (Spring 2024)
 
-  * **Week 1: Diving Into React**
+  ### * **Week 1: Diving Into React**
     * Lab 1: Timetabled
     * Project 1: Community Board
 
-  * **Week 2: Creating an Interactive Frontend**
+  ### * **Week 2: Creating an Interactive Frontend**
     * Lab 2: Samosa Selector
     * Project 2: Flashcards! Part 1
 
-  * **Week 3: Responding to Complex User Input**
+  ### * **Week 3: Responding to Complex User Input**
     * Lab 3: ☕ On My Grind
     * Project 3: Flashcards! Part 2
 
-  * **Week 4: Using Real-World Data Pt. 1**
+  ### * **Week 4: Using Real-World Data Pt. 1**
     * Lab 4: Cap!
     * Project 4: Veni Vici!
 
-  * **Week 5: Using Real-World Data Pt. 2**
+  ### * **Week 5: Using Real-World Data Pt. 2**
     * Lab 5: Crypto Hustle Lite
     * Project 5: Data Dashboard Part 1
 
-  * **Week 6: Implementing Navigation**
+  ### * **Week 6: Implementing Navigation**
     * Lab 6: Crypto Hustle Pro
     * Project 6: Data Dashboard Part 2
 
-  * **Week 7: CRUD Operations**
+  ### * **Week 7: CRUD Operations**
     * Lab 7: Bet
     * Project 7: Crewmates
 
-  * **Week 8: Final Project Kickoff & Principles of Web Design**
+  ### * **Week 8: Final Project Kickoff & Principles of Web Design**
     * Final Project: HobbyHub
 
-  * **Week 9: Final Project Wrap Up & Deployment**
+  ### * **Week 9: Final Project Wrap Up & Deployment**
     * Final Project: Final Project Content Day 2
 
-  * **Week 10: Demo Day**
+  ### * **Week 10: Demo Day**
