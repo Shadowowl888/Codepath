@@ -1,10 +1,9 @@
 from typing import List
 
-# https://padlet.com/allisonjchan/tip102-2-2024-contract-goals-ti3h5pf0okrngfsy
-# https://collabedit.com/n4te9
-# https://replit.com/@skyepersona1/Pod-30?v=1
-
 '''
+https://padlet.com/allisonjchan/tip102-2-2024-contract-goals-ti3h5pf0okrngfsy
+https://collabedit.com/n4te9
+https://replit.com/@skyepersona1/Pod-30
 -------------------------------------------------------------------------------
 Understand
 - Ask clarifying questions and use examples to understand what the interviewer wants out of this problem
@@ -52,17 +51,17 @@ Output: true
 '''
 
 '''
-Understand
+Understand:
 - Can the array be empty? -> false
 - What's the input type and output type? -> input: array, output: boolean
 
-Match             
+Match:        
 - Hash set -> key: element of the array, value: frequency of the element
     - Time Complexity: O(n), Space Complexity: O(n)
 - Use two for loops to check for each element and use the second for loop to check any duplicates
     - Time Complexity: O(n**2), Space Complexity: O(1)
 
-Plan
+Plan:
 - Brute Force
     - First for loop to go through every integer in the input array
     - Second for loop to check if there a duplicate in the other element, if the duplicate is found, return. true
@@ -74,7 +73,7 @@ Plan
     - If it's in the set -> return true
     - If there are no duplicates-> return false
 
-Implement
+Implement:
 '''
 def containsDuplicate(nums: List[int]) -> bool:
     hashset = set()
@@ -114,13 +113,13 @@ Output: [0,1]
 '''
 
 '''
-Understand
+Understand:
 1. Does the array include negative numbers?  -> yes
 2. Would there be empty arrays? ->
 3. Does the order of the indicies matter? -> no
 4. Can we use the same number twice that is on the same position or different position? -> no, you must use different positions
 
-Match
+Match:
 - Hashmap -> we can keep track of each element's indices
   - Time Complexity: O(n), Space complexity: O(n)
 - Array -> Nested for loops checking every element with every other element for the target sum
@@ -129,14 +128,14 @@ Match
   - Time complexity: O(nlogn), Space complexity: O(n)
   - https://stackoverflow.com/questions/48759175/what-is-the-space-complexity-of-the-python-sort
 
-Plan
+Plan:
 - Initialize the hashmap
 - Iterate through the array
   - complementary = target - nums[i]
   - if complementary is not in the hashmap -> key: current element, value: current element's index
   - if it's in the hashmap -> return [complementary's index, current number's index]
 
-Implement
+Implement:
 '''
 def twoSum(nums: List[int], target: int) -> List[int]:
     result = {}
@@ -274,11 +273,6 @@ Input: paths = [["A","Z"]]
 Output: "Z"
 '''
 def destCity(paths: List[List[str]]) -> str:
-    src = set(path[0] for path in paths)
-    dest = set(path[1] for path in paths)
-    res = dest - src
-    return res.pop()
-
     # start, end = set(), set()
     # for startCity, endCity in paths:
     #     start.add(startCity)
@@ -286,6 +280,11 @@ def destCity(paths: List[List[str]]) -> str:
     # for endCity in end:
     #     if endCity not in start:
     #         return endCity
+    
+    src = set(path[0] for path in paths)
+    dest = set(path[1] for path in paths)
+    res = dest - src
+    return res.pop()
 print("(Bonus) Problem 5: Destination City")
 print('paths = [["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]:', destCity([["London","New York"],["New York","Lima"],["Lima","Sao Paulo"]]))
 print('paths = [["B","C"],["D","B"],["C","A"]]:', destCity([["B","C"],["D","B"],["C","A"]]))

@@ -3,6 +3,7 @@ import heapq as heapq
 from collections import deque
 
 '''
+https://replit.com/@skyepersona1/Pod-30
 -------------------------------------------------------------------------------
 Understand
 - Ask clarifying questions and use examples to understand what the interviewer wants out of this problem
@@ -52,22 +53,22 @@ Output: false
 '''
 
 '''
-Understand
+Understand:
 - What if input string is empty?
 - What is the data type of the output?
 - Input string = "[}" -> false
 - What if there are random characters in the string? -> no random characters?
 
-Match
+Match:
 - Stack
 
-Plan
+Plan:
 - Pop when there's close a bracket and make sure that the top of the stack's element is the same bracket type as the current cahracter of the string
     - If it's the same type -> pop
     - If it's different type -> return false
 - Push open bracket to stack
 
-Implement
+Implement:
 '''
 def isValid(s: str) -> bool:
     stack = []
@@ -136,7 +137,7 @@ kthLargest.add(4);   // return 8
 '''
 
 '''
-Understand
+Understand:
 - What would happen if k is larger than the length of the array? -> return None
 - What if the array is empty? -> return 0
 - What if k is negative or 0? -> return None

@@ -17,7 +17,7 @@ Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 '''
 def majorityElement(nums: List[int]) -> int:
-    # Time Complexity: O(n log n)
+    # Time Complexity: O(nlog(n))
     # nums.sort()
     # n = len(nums)
     # return nums[n//2]
