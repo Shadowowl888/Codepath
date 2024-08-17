@@ -50,7 +50,7 @@ Codepath Course Assignments
     * Problem 3: [Number of Recent Calls](https://guides.codepath.org/compsci/number-of-recent-calls/)
     * (Bonus) Problem 4: [Min Stack](https://guides.codepath.org/compsci/Min-Stack)
     * (Bonus) Problem 5: [Implement Queue Using Stacks](https://guides.codepath.org/compsci/implement-queue-using-stacks/)
-  * **Assignment 1:** [Unit 1 HackerRank](https://courses.codepath.org/courses/tip102/unit/1)
+  * **Assignment 1:** [Unit 1 HackerRank](https://hr.gs/tip102-unit1-s24-5391)
     * Optional Practice Problems:
       * Stacks:
         * [Find Maximum Stack](https://www.geeksforgeeks.org/find-maximum-in-stack-in-o1-without-using-additional-stack/)
@@ -89,7 +89,7 @@ Codepath Course Assignments
     * Problem 3: [Palindrome Linked List](https://guides.codepath.org/compsci/Palindrome-Linked-Lists)
     * (Bonus) Problem 4: [Remove Duplicates from Sorted List II](https://guides.codepath.org/compsci/Remove-Duplicates-from-Sorted-List-II)
     * (Bonus) Problem 5: [Swap Nodes in Pairs](https://guides.codepath.org/compsci/Swap-Nodes-in-Pairs)
-  * **Assignment 2:** [Unit 2 HackerRank](https://courses.codepath.org/courses/tip102/unit/2)
+  * **Assignment 2:** [Unit 2 HackerRank](https://hr.gs/tip102-unit2-s24-5591)
     * Optional Practice Problems:
       * [Design a Linked List](https://leetcode.com/problems/design-linked-list/)
         * If you run into issues dealing with negative indexes, [read this discussion](https://leetcode.com/problems/design-linked-list/solutions/272896/Test-case-bug-with-negative-index/)
@@ -119,7 +119,7 @@ Codepath Course Assignments
     * Problem 3: [Sqrt(x)](https://guides.codepath.org/compsci/Sqrt(x))
     * (Bonus) Problem 4: [Find Minimum in Rotated Sorted Array](https://guides.codepath.org/compsci/Find-Minimum-in-Rotated-Sorted-Array)
     * (Bonus) Problem 5: [Search in Rotated Sorted Array](https://guides.codepath.org/compsci/Search-in-Rotated-Sorted-Array)
-  * **Assignment 3:** [Unit 3 HackerRank](https://courses.codepath.org/courses/tip102/unit/3)
+  * **Assignment 3:** [Unit 3 HackerRank](https://hr.gs/tip102-unit3-s24-9412)
     * Optional Practice Problems:
       * [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
       * [Sum Multiples](https://leetcode.com/problems/sum-multiples/)
@@ -145,7 +145,7 @@ Codepath Course Assignments
     * Problem 3: [Add Two Numbers II](https://guides.codepath.org/compsci/Add-Two-Numbers-II)
     * (Bonus) Problem 4: [Validate Stack Sequences](https://guides.codepath.org/compsci/Validate-Stack-Sequences)
     * (Bonus) Problem 5: [Evaluate Reverse Polish Notation](https://guides.codepath.org/compsci/Evaluate-Reverse-Polish-Notation)
-  * **Assignment 4:** [Unit 4 HackerRank](https://courses.codepath.org/courses/tip102/unit/4)
+  * **Assignment 4:** [Unit 4 HackerRank](https://hr.gs/tip102-unit4-s24-7102)
     * Optional Practice Problems:
       * Stack Practice Problems:
         * [Find Maximum Stack](https://www.geeksforgeeks.org/find-maximum-in-stack-in-o1-without-using-additional-stack/)
@@ -178,7 +178,7 @@ Codepath Course Assignments
     * Problem 3: [Koko Eating Bananas](https://guides.codepath.org/compsci/Koko-Eating-Bananas)
     * (Bonus) Problem 4: [Container With Most Water](https://guides.codepath.org/compsci/Container-With-Most-Water)
     * (Bonus) Problem 5: [Merge Intervals](https://guides.codepath.org/compsci/Merge-Intervals)
-  * **Assignment 5:** [Unit 5 HackerRank](https://courses.codepath.org/courses/tip102/unit/5)
+  * **Assignment 5:** [Unit 5 HackerRank](https://hr.gs/tip102-unit5-s24-6520)
     * Optional Practice Problems:
       * [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
       * [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -207,7 +207,7 @@ Codepath Course Assignments
     * Problem 3: [Symmetric Tree](https://guides.codepath.org/compsci/Symmetric-Tree)
     * (Bonus) Problem 4: [Diameter of Binary Tree](https://guides.codepath.org/compsci/Diameter-of-Binary-Tree)
     * (Bonus) Problem 5: [Path Sum](https://guides.codepath.org/compsci/Path-Sum)
-  * **Assignment 6:** [Unit 6 HackerRank](https://courses.codepath.org/courses/tip102/unit/6)
+  * **Assignment 6:** [Unit 6 HackerRank](https://hr.gs/tip102-unit6-s24-3528)
     * Optional Practice Problems:
       * [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
       * [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
@@ -232,7 +232,7 @@ Codepath Course Assignments
     * Problem 3: [Validate Binary Search Tree](https://guides.codepath.org/compsci/Validate-Binary-Search-Tree)
     * (Bonus) Problem 4: [Construct Binary Tree from Preorder and Inorder Traversal](https://guides.codepath.org/compsci/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal)
     * (Bonus) Problem 5: [Binary Tree Pruning](https://guides.codepath.org/compsci/Binary-Tree-Pruning)
-  * **Assignment 7:** [Unit 7 HackerRank](https://courses.codepath.org/courses/tip102/unit/7)
+  * **Assignment 7:** [Unit 7 HackerRank](https://hr.gs/tip102-unit7-s24-4801)
     * Optional Practice Problems:
       * [Identical Tree](https://leetcode.com/problems/same-tree/)
       * [Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -261,7 +261,7 @@ Codepath Course Assignments
     * Problem 3: [Battleships in a Board](https://guides.codepath.org/compsci/Battleships-in-a-Board)
     * (Bonus) Problem 4: [Rotting Oranges](https://guides.codepath.org/compsci/Rotting-Oranges)
     * (Bonus) Problem 5: [Flood Fill](https://guides.codepath.org/compsci/Flood-Fill)
-  * **Assignment 8:** [Unit 8 HackerRank](https://courses.codepath.org/courses/tip102/unit/8)
+  * **Assignment 8:** [Unit 8 HackerRank](https://hr.gs/tip102-unit8-s24-1490)
     * Optional Practice Problems:
       * [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
       * [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
@@ -289,7 +289,7 @@ Codepath Course Assignments
     * Problem 3: [Find if Path Exists in Graph](https://guides.codepath.org/compsci/Find-if-Path-Exists-in-Graph)
     * (Bonus) Problem 4: [Decode String](https://guides.codepath.org/compsci/Decode-String)
     * (Bonus) Problem 5: [Add One Row to Tree](https://guides.codepath.org/compsci/Add-One-Row-to-Tree)
-  * **Assignment 9:** [Unit 9 HackerRank](https://courses.codepath.org/courses/tip102/unit/9)
+  * **Assignment 9:** [Unit 9 HackerRank](https://hr.gs/tip102-unit9-s24-4175)
     * Optional Practice Problems:
       * [Sort a nearly sorted (or K sorted) array](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)
       * [Smallest Range](https://leetcode.com/problems/smallest-range-i/)
@@ -313,7 +313,7 @@ Codepath Course Assignments
     * Part 1: Instructional Team AMA
     * Part 2: Self Reflection
     * Part 3: Pod Challenge
-  * **Assignment 10:** [Career Assignment](https://courses.codepath.org/courses/tip102/unit/10#!career_assignment)
+  * **Assignment 10:** [Career Assignment](https://go.codepath.org/careerconnect)
 
 
 ## WEB102 Intermediate Web Development (Spring 2024)
